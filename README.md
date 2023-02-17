@@ -1,3 +1,17 @@
+XH Customization of the Project Described Below
+========================================
+
+**XH Customizations:**
+* Several toolbar buttons added, several removed
+* Image upload done by XH built AWS S3 upload adapter plugin.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 CKEditor 5 document editor build
 ========================================
 
