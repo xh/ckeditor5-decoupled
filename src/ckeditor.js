@@ -155,6 +155,10 @@ DecoupledEditor.defaultConfig = {
 			reversed: true
 		}
 	},
+	link: {
+            // Automatically add target="_blank" and rel="noopener noreferrer" to all external links.
+            addTargetToExternalLinks: true
+	},
 	// This value must be kept in sync with the language defined in webpack.config.js.
 	language: 'en'
 };
